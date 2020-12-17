@@ -73,3 +73,25 @@ button:hover{
 	background: steelblue;
 }
 
+
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: rgb(25 25 25);
+  text-align:center;
+  color: white;
+}
+
+.container .text-muted {
+  margin: 20px 0;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
