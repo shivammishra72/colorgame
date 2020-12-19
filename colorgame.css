@@ -85,14 +85,15 @@ button:hover{
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 30px;
-  background-color: rgb(25 25 25);
+  height: 5px;
+  background-color: none;
   text-align:center;
   color: white;
 }
 
 .container .text-muted {
   margin: 20px 0;
+  font-weight: normal;
 }
 
 a{
